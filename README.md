@@ -3,6 +3,9 @@ npm install
 npm start  
 [episode 4, timestamp tutorial](https://youtu.be/JjSeSZ_DOfA)
 
+nvm install 8
+npm install -g heroku-cli
+
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
