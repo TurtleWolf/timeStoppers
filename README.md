@@ -1,3 +1,7 @@
+cd myapp  
+npm install  
+npm start  
+[episode 4, timestamp tutorial](https://youtu.be/JjSeSZ_DOfA)
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -5,7 +9,7 @@
     '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
-[episode 4, timestamp tutorial](https://youtu.be/JjSeSZ_DOfA)
+
 
 Hi there! Welcome to Cloud9 IDE!
 
